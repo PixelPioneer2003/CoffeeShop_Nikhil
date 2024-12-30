@@ -19,7 +19,6 @@ Check out the live website: [Coffee Shop Website](https://coffeeshop-nikhil.onre
 - **HTML5**: Structure of the website.
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactive elements.
-- **Bootstrap**: Responsive design framework.
 - **FontAwesome**: Icons used throughout the site.
 
 ## Installation
